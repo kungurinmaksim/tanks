@@ -22,7 +22,7 @@ markdown
 
 ### Запуск
 
-cd tanks1/12_1_2
+cd tanks
 
 python main.py
 
